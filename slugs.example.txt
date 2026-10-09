@@ -1,0 +1,5 @@
+# One company slug per line. Lines starting with # are ignored.
+# Run: python3 probe_boards.py slugs.example.txt
+gitlab
+duolingo
+khanacademy

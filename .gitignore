@@ -1,0 +1,29 @@
+# Secrets and personal configuration
+.env
+config.local.*
+screening_local.py
+boards.json
+ats_candidates.json
+slugs.txt
+workday_urls.txt
+
+# Runtime state and personal data written by the monitor
+seen.json
+applied.json
+raw_jobs.json
+digest.md
+unreachable.txt
+
+# Logs and diagnostics
+*.log
+diag*_out.txt
+
+# Backups
+*.bak
+*.bak-*
+
+# Python caches and environments
+__pycache__/
+*.pyc
+.venv/
+venv/

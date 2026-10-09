@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "gitlab",
+    "ats": "greenhouse",
+    "open_at_probe": 219
+  },
+  {
+    "slug": "khanacademy",
+    "ats": "greenhouse",
+    "open_at_probe": 7
+  },
+  {
+    "slug": "workday",
+    "ats": "workday",
+    "tenant": "workday",
+    "dc": "wd5",
+    "site": "Workday",
+    "open_at_probe": 300
+  }
+]

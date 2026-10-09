@@ -1,0 +1,12 @@
+[
+  {"slug": "huggingface", "ats": "workable", "account": "huggingface"},
+  {"slug": "example-oracle", "ats": "oracle_cx",
+   "host": "EXAMPLE.fa.us2.oraclecloud.com", "site": "CX_1",
+   "site_path": "CX_1"},
+  {"slug": "example-successfactors", "ats": "successfactors",
+   "host": "careers.example.com"},
+  {"slug": "example-phenom", "ats": "phenom", "host": "careers.example.org"},
+  {"slug": "example-faculty-board", "ats": "madgex_rss",
+   "host": "careers.example.edu", "lane": "faculty",
+   "queries": ["online faculty", "remote instructor"]}
+]

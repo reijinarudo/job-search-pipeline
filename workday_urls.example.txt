@@ -1,0 +1,4 @@
+# Workday careers URLs, one per line, each read off the employer's own
+# careers page. An optional "# label" sets the company name in the digest.
+# Run: python3 probe_boards.py --workday workday_urls.txt
+https://workday.wd5.myworkdayjobs.com/Workday  # workday
