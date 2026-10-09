@@ -32,7 +32,7 @@ Any computer that can run Python 3.10 or later and stay on (or wake) at the sche
 1. Download the code.
 
    ```
-   git clone https://github.com/USERNAME/job-search-pipeline.git
+   git clone https://github.com/reijinarudo/job-search-pipeline.git
    cd job-search-pipeline
    ```
 
